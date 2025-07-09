@@ -45,7 +45,7 @@
             <div class="text-4xl md:text-5xl font-crimson-pro italic tracking-tight">
                 Foundational Mathematics
             </div>
-            <div class="pt-5 text-lg md:text-base font-inter tracking-tight">
+            <div class="pt-5 text-base md:text-lg font-inter tracking-tight">
                 If you don’t understand the math, the model will fool you — and you won’t even know it.
             </div>
         </div>
