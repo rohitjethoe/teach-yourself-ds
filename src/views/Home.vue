@@ -3,7 +3,7 @@
 <template>
     <div class="landing flex flex-col justify-between">
         <section class="hidden md:block"></section>
-        <section class="p-2 md:p-5">
+        <section class="p-2 pt-6 md:pt-5 md:p-5">
             <div class="text-3xl md:text-4xl tracking-tight">
                 Accessible <span class="font-crimson-pro italic text-4xl md:text-5xl">Data Science</span> for self-directed learners.
             </div>
