@@ -8,7 +8,11 @@
                 Accessible <span class="font-crimson-pro italic text-4xl md:text-5xl">Data Science</span> for self-directed learners.
             </div>
             <div class="tracking-tight pt-5 md:w-2/3 text-base md:text-lg">
-                Sharing my ongoing journey to master data science with clear, practical insights for data science enthusiasts. I'm currently studying a BSc in Computer Science and Engineering and wanted to document what I learn—from core mathematics and programming to data systems and machine learning—making complex topics easier to understand for fellow self-learners.
+                <span>
+                    This blog is designed as a hands-on learning platform for anyone serious about data science. By combining deep theory with interactive examples and real-world applications, I aim to create a resource that goes beyond surface-level explanations and truly builds your understanding step-by-step. 
+                    <br> <br>
+                </span>
+                Sharing my ongoing journey to master data science through clear, practical insights for curious learners. This blog documents what I learn—from foundational mathematics and programming to data analysis and machine learning—with the goal of breaking down complex topics into understandable, actionable knowledge for fellow self-directed learners.
             </div>
             <div class="mt-5 md:mt-10 flex gap-2">
                 <a href="#" class="text-sm md:text-base tracking-tight px-5 py-2.5 md:px-8 md:py-3 border-primary bg-blue-600 text-white transition-all hover:bg-blue-700 hover:border-blue-800">How does it work?</a>
