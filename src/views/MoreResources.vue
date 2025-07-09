@@ -1,0 +1,11 @@
+<template>
+    <section class="mx-2 md:mx-5 relative">
+        <img src="@/assets/landing-image.png" alt="Landing">
+        <div class="absolute left-2 bottom-2 md:bottom-5 md:left-5 font-crimson-pro italic tracking-tight text-4xl md:text-5xl">
+            More Resources
+        </div>
+    </section>
+    <section class="p-2 md:p-5">
+        I want to sincerely thank all the creators and educators who offer free, high-quality learning materials online. This page—and really this entire project—wouldn’t be possible without their generosity. Below you’ll find a curated list of excellent free resources that I’ve used or recommend for anyone diving into data science and related fields.
+    </section>
+</template>

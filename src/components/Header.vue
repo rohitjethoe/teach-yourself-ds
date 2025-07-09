@@ -34,7 +34,7 @@ onMounted(() => {
             <div class="menu-toggle font-inter tracking-tight select-none hover:cursor-pointer">
                 Menu
             </div>
-            <div class="menu opacity-0 pointer-events-none transition-all fixed h-screen w-screen bg-[rgba(255,255,255,0.666)] backdrop-blur-xs left-0 top-0">
+            <div class="menu opacity-0 pointer-events-none transition-all fixed h-screen w-screen bg-[rgba(255,255,255,0.666)] backdrop-blur-xs left-0 top-0 z-20">
                 <div class="flex p-2 md:p-5 pb-0 items-center w-full justify-between">
                     <div class="font-crimson-pro text-3xl italic tracking-tight opacity-0">
                         Teach Yourself Data
@@ -60,7 +60,7 @@ onMounted(() => {
                         </a>
                     </li>
                     <li class="text-black text-6xl md:text-8xl tracking-tighter font-crimson-pro italic">
-                        <a class="hover:opacity-50" href="/">
+                        <a class="hover:opacity-50" href="/more-resources">
                             More resources
                         </a>
                     </li>
