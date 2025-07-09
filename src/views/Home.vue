@@ -11,7 +11,7 @@
                 Sharing my ongoing journey to master data science with clear, practical insights for data science enthusiasts. I'm currently studying a BSc in Computer Science and Engineering and wanted to document what I learn—from core mathematics and programming to data systems and machine learning—making complex topics easier to understand for fellow self-learners.
             </div>
             <div class="mt-5 md:mt-10 flex gap-2">
-                <a href="#" class="text-sm md:text-base tracking-tight px-5 py-2.5 md:px-8 md:py-3 border-primary bg-blue-600 text-white transition-all hover:bg-blue-700 hover:border-blue-800" target="_blank">How does it work?</a>
+                <a href="#" class="text-sm md:text-base tracking-tight px-5 py-2.5 md:px-8 md:py-3 border-primary bg-blue-600 text-white transition-all hover:bg-blue-700 hover:border-blue-800">How does it work?</a>
                 <a href="https://coff.ee/rohitjethoe" class="group flex flex-row-reverse gap-3 items-center text-sm md:text-base tracking-tight px-5 py-2.5 md:px-8 md:py-3 border transition-all hover:bg-black hover:text-white" target="_blank">
                     <img class="w-3.5 object-contain hidden group-hover:block" src="@/assets/buy-me-a-coffee.png"/>
                     <img class="w-3.5 object-contain group-hover:hidden" src="@/assets/buy-me-a-coffee-black.png"/>
