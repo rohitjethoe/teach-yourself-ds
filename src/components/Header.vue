@@ -26,7 +26,7 @@ onMounted(() => {
 <template>
     <header>
         <div class="p-2  md:p-5 flex items-center justify-between">
-            <div class="font-crimson-pro text-3xl italic tracking-tight">
+            <div class="font-crimson-pro text-xl md:text-3xl italic tracking-tight">
                 <a href="/">
                     Teach Yourself Data Science
                 </a>
