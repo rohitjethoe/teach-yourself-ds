@@ -44,7 +44,7 @@
             </div>
         </section>
     </div>
-    <section class="p-2 md:p-5 py-20 text-black bg-gray-100">
+    <section class="p-2 py-30 md:p-5 md:py-20 text-black bg-gray-100">
         <div>
             <div class="text-4xl md:text-5xl font-crimson-pro italic tracking-tight">
                 Foundational Mathematics
