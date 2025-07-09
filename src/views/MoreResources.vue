@@ -1,5 +1,5 @@
 <template>
-    <section class="mx-2 md:mx-5 relative">
+    <section class="relative">
         <img src="@/assets/landing-image.png" alt="Landing">
         <div class="absolute left-2 bottom-2 md:bottom-5 md:left-5 font-crimson-pro italic tracking-tight text-4xl md:text-5xl">
             More Resources
