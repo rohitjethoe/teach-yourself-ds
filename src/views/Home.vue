@@ -8,7 +8,7 @@
                 Accessible <span class="font-crimson-pro italic text-4xl md:text-5xl">Data Science</span> for self-directed learners.
             </div>
             <div class="tracking-tight pt-5 md:w-2/3 text-base md:text-lg">
-                <span>
+                <span class="hidden md:block">
                     This blog is designed as a hands-on learning platform for anyone serious about data science. By combining deep theory with interactive examples and real-world applications, I aim to create a resource that goes beyond surface-level explanations and truly builds your understanding step-by-step. 
                     <br> <br>
                 </span>
