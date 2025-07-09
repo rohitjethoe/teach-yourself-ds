@@ -7,7 +7,7 @@
             <div class="text-3xl md:text-4xl tracking-tight">
                 Accessible <span class="font-crimson-pro italic text-4xl md:text-5xl">Data Science</span> for self-directed learners.
             </div>
-            <div class="tracking-tight pt-5 md:w-2/3 text-lg">
+            <div class="tracking-tight pt-5 md:w-2/3 text-base md:text-lg">
                 Sharing my ongoing journey to master data science with clear, practical insights for data science enthusiasts. I'm currently studying a BSc in Computer Science and Engineering and wanted to document what I learn—from core mathematics and programming to data systems and machine learning—making complex topics easier to understand for fellow self-learners.
             </div>
             <div class="mt-5 md:mt-10 flex gap-2">
