@@ -25,11 +25,11 @@ onMounted(() => {
 
 <template>
     <div class="bg-gray-100 text-center p-2 text-black text-sm tracking-tight font-medium">
-        ⚡️ We're still in testing phase
+        🚧 &nbsp; Under construction: Expect bugs, fixes, and fresh updates.
     </div>
     <header>
-        <div class="p-2 md:p-5 flex items-center justify-between">
-            <div class="font-crimson-pro text-xl md:text-3xl italic tracking-tight">
+        <div class="px-2 py-3 md:px-5 md:py-5 flex items-center justify-between">
+            <div class="font-crimson-pro text-2xl md:text-3xl italic tracking-tight">
                 <a href="/">
                     Teach Yourself Data Science
                 </a>
