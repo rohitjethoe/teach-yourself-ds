@@ -12,7 +12,7 @@ const topics = [
     },
     {
         id: 2,
-        title: "Statistics",
+        title: "Probability & Statistics",
         subtitle: "Understanding data, probability, and distributions"
     },
     {
@@ -51,7 +51,7 @@ const topics = [
                 </a>
             </div>
         </section>
-        <section class="p-5 pt-0 pb-5 flex flex-wrap justify-center tracking-tight gap-2 text-gray-300 text-sm md:text-base">
+        <section class="p-5 pt-0 pb-5 flex flex-wrap justify-center tracking-tight gap-2 text-gray-400 text-sm md:text-base">
             <div class="text-black font-medium">
                 All,
             </div>
