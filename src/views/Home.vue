@@ -88,7 +88,7 @@ const topics = [
 .landing {
     min-height: calc(100svh - 7.25em);
     @media (max-width: 768px) {
-        min-height: calc(100svh - 2.75em);
+        min-height: calc(100svh - 5.75em);
     }
 }
 </style>
