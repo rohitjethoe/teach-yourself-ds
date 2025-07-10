@@ -27,7 +27,7 @@ onMounted(() => {
     <div class="bg-gray-100 text-center p-2 text-black text-sm tracking-tight font-medium">
         🚧 &nbsp; Under construction: Expect bugfixes and updates
     </div>
-    <header>
+    <header class="border-b border-gray-200">
         <div class="px-2 py-3 md:px-5 md:py-5 flex items-center justify-between">
             <div class="font-crimson-pro text-2xl md:text-3xl italic tracking-tight">
                 <a href="/">
