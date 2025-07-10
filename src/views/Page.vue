@@ -148,7 +148,7 @@ onMounted(() => {
 </script>
 
 <template>
-  <section class="md-content p-2 md:p-5">
+  <section class="md-content bg-gray-100 p-2 md:p-5">
     <div v-if="loading" class="loading-container">
       <div class="spinner"></div>
       <p>Loading...</p>

@@ -1,6 +1,4 @@
-<script setup>
-
-</script>
+<script setup></script>
 
 <template>
     <footer class="p-2 md:p-5 bg-[#F9FAFB]">
