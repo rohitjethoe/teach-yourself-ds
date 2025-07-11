@@ -31,7 +31,7 @@ onMounted(() => {
         <div class="px-2 py-3 md:px-5 md:py-5 flex items-center justify-between">
             <div class="font-crimson-pro text-2xl md:text-3xl italic tracking-tight">
                 <a href="/">
-                    Teach Yourself Data Science
+                    Principles of Computing
                 </a>
             </div>
             <div class="menu-toggle font-inter tracking-tight select-none hover:cursor-pointer">
