@@ -36,10 +36,6 @@ const topics = [
                 Computer Science domains explained for independent and curious learners —
             </div>
             <div class="tracking-tight pt-2 md:pt-5 md:w-2/3 text-base md:text-lg">
-                <span class="hidden md:block">
-                    This blog is designed as a hands-on learning platform for anyone serious about data science. By combining deep theory with interactive examples and real-world applications, I aim to create a resource that goes beyond surface-level explanations and truly builds your understanding step-by-step. 
-                    <br> <br>
-                </span>
                 Sharing my ongoing journey to master data science through clear, practical insights for curious learners. This blog documents what I learn from foundational mathematics and programming to data analysis and machine learning with the goal of breaking down complex topics into understandable, actionable knowledge for fellow self-directed learners.
             </div>
             <div class="mt-5 md:mt-10 flex gap-2">
